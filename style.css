@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main{
+    width: 1120px;
+    margin: 90px auto 60px;
+}
+
+.headline{
+  font-size: 16px;
+  color: #E1624F;
+  font-weight: bold;
+}
+
+h1 {
+    margin-top: 8px;
+    font-size: 36px;
+}
+
+#aboutMusan img {
+    width: 100%;
+    border-radius: 28px;
+    margin-top: 40px;
+}
+
+#aboutMusan p {
+    
+}
