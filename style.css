@@ -3,22 +3,26 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
+    background-color: #F5F4F0;
 }
 
 main{
     width: 1120px;
     margin: 90px auto 60px;
+    color: #333333;
 }
 
-.headline{
+.headline {
   font-size: 16px;
   color: #E1624F;
   font-weight: bold;
+text-transform: uppercase;
 }
 
 h1 {
     margin-top: 8px;
     font-size: 36px;
+    color: #1B1B1B;
 }
 
 #aboutMusan img {
@@ -27,6 +31,67 @@ h1 {
     margin-top: 40px;
 }
 
-#aboutMusan p {
-    
+.subtitle {
+    text-align: center;
+    font-style: italic;
+    margin: 24px 0px 40PX;
+}
+
+#aboutPlaces {
+    border-top: 1px #d9d9d9 solid;
+    border-bottom: 1px #d9d9d9 solid;
+    padding-top: 64px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 200%;
+    color: #1B1B1B;
+}
+
+#aboutPlaces img {
+    width: 100%;
+    border-radius: 28px;
+    height: 350px;
+}
+
+#templeHaedong {
+    margin-top: 64px;
+}
+
+h3 {
+    color: #1B1B1B;
+    padding: 8px;
+    font-size: 28px;
+}
+
+ul {
+    font-weight: bold;
+    margin: 24px 0 48px;
+    color: #333333;
+}
+
+li {
+    margin-left: 24px;
+}
+
+.history {
+    color: #0C51A7;
+}
+
+.couple {
+    color: #591B98;
+}
+
+.family {
+    color: #E5245E;
+}
+.budget {
+    color: #E95E10;
+}
+
+footer {
+    text-align: center;
+    color: #333333;
 }
